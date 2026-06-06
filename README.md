@@ -4,16 +4,16 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Navaneethan P
+# Hi, I'm Navaneethan P
 
-**This is my secondary / experimental GitHub account.** 
+**This is my secondary/experimental GitHub account.** 
 
 I use this account to test new ideas, build quick prototypes, and sandbox API architectures. 
 
 > [!IMPORTANT]
-> 🌟 **To see my main portfolio, production applications, and open-source contributions, please visit my primary GitHub account:**
+> **To see my main portfolio, production applications, and open-source contributions, please visit my primary GitHub account:**
 > 
-> ### 👉 [**@Navaneethan-P**](https://github.com/Navaneethan-P) 👈
+> ###  [**@Navaneethan-P**](https://github.com/Navaneethan-P) 
 
 <br/>
 
